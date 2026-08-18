@@ -9,6 +9,8 @@ public class Principal {
 		
 		Scanner sc = new Scanner(System.in);
 		
+		// o "nextline" permite que você coloque espaço no scanner
+		
 		System.out.println("Digite seu nome: ");
 		nome = sc.nextLine();
 		
