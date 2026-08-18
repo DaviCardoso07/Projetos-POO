@@ -37,7 +37,7 @@ public class Principal {
 		case 3:
 			System.out.println("Terça");
 			break;
-		default:
+		default: // é como se fosse um else
 			System.out.println("Esse dia não existe");
 			break;
 		}
