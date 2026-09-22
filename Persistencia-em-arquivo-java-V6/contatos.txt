@@ -1,0 +1,3 @@
+Roger;85999999999;roger@email.com
+Maria;85888888888;maria@email.com
+Pedro;85777777777;pedro@email.com
